@@ -1,0 +1,26 @@
+{
+  "name": "wp-wix-migration-tool",
+  "version": "0.3.0",
+  "description": "Just another WordPress plugin",
+  "main": "readme.txt",
+  "person": {
+    "name" : "Dan Smith",
+    "email" : "dev@dotherightthing.co.nz",
+    "url" : "http://dotherightthing.co.nz"
+  },
+  "devDependencies": {
+    "generator-wp-plugin-boilerplate": "git+https://github.com/dotherightthing/generator-wp-plugin-boilerplate.git",
+    "gulp-phplint": "^0.3.4",
+    "gulp-phpunit": "^0.22.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dotherightthing/wp-wix-migration-tool.git"
+  },
+  "license": "ISC",
+  "homepage": "http://dotherightthing.co.nz",
+  "srcDir": "/Volumes/DanBackup/Websites/wp-wix-migration-tool"
+}

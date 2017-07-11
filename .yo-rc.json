@@ -1,0 +1,24 @@
+{
+  "generator-wp-plugin-boilerplate": {
+    "name": "wp-wix-migration-tool",
+    "nameSafe": "wp_wix_migration_tool",
+    "nameFriendly": "Wix Migration Tool",
+    "nameFriendlySafe": "Wp_Wix_Migration_Tool",
+    "nameAdminMenu": "Wix Migration Tool",
+    "urlAdminMenu": "wix-migration-tool",
+    "description": "Just another WordPress plugin",
+    "tags": "boilerplate, placeholder",
+    "homepage": "http://dotherightthing.co.nz",
+    "license": "GPLv2 or later",
+    "licenseUrl": "http://www.gnu.org/licenses/gpl-2.0.html",
+    "donateUrl": "http://dotherightthing.co.nz",
+    "wpVersion": "4.7.3",
+    "authorName": "Dan Smith",
+    "authorWordPressName": "dotherightthingnz",
+    "authorEmail": "dev@dotherightthing.co.nz",
+    "authorUrl": "http://dotherightthing.co.nz",
+    "repositoryType": "git",
+    "repositoryUrl": "git@github.com:dotherightthing/wp-wix-migration-tool.git",
+    "version": "0.3.0"
+  }
+}
